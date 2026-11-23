@@ -15,6 +15,13 @@ iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの Soli
 
 ![背面ロゴと NULL=RUN の白いインレイの拡大](iPhone16ProMax/case-inlay-detail.png)
 
+### 低リム試作版
+
+- [SolidCraft CAD](iPhone16ProMax/low-rim/null-iPhone16ProMax-lowRim.sc)
+- [H3C用3MF（シアン＋白、サポート付き）](iPhone16ProMax/low-rim/null-iPhone16ProMax-lowRim-H3C-cyan-white.3mf)
+
+ケース上端と全周リップを0.70 mm下げた試作版です。実機での着脱と保持力は未確認です。
+
 ## MuJoCoでの抜け止め検証
 
 抜け止めリップを追加した更新版（コミット `3ef35e4`）で、ケースを固定し、iPhoneを装着位置から画面側へまっすぐ引いたときの接触を調べました。iPhone側面のCAD形状と3か所のリップを剛体として扱い、引き抜き量を0.005 mm刻みで変えています。
