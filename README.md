@@ -1,7 +1,9 @@
 # null-iPhone-case
 
 > [!WARNING]
-> **v0.01beta には欠陥があります。** iPhone 16 Pro Max に装着しても保持力が足りず、通常の取り扱いでケースが外れます。この版のケースデータの印刷・使用は推奨しません。[プレリリースの詳細](https://github.com/GOROman/null-iPhone-case/releases/tag/v0.01beta)
+> **v0.02beta でもケースが外れます。** 抜け止めリップを追加した試作品を実機に装着して確認したところ、ケースが外れました。この版のケースデータの印刷・使用は推奨しません。[v0.02beta プレリリース](https://github.com/GOROman/null-iPhone-case/releases/tag/v0.02beta)
+>
+> [旧版 v0.01beta](https://github.com/GOROman/null-iPhone-case/releases/tag/v0.01beta) にも同じ問題があります。
 
 iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの SolidCraft CAD データと、NULL CITY のロゴをもとにしたディスプレイ書体 **NULL FONT** を収録しています。
 
@@ -22,7 +24,7 @@ iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの Soli
 | 中央 | 約0.68 mmで3か所すべてに接触 |
 | 左右どちらかに0.10 mmずれた位置 | 約0.56 mmで近い側、約0.83 mmで反対側に接触 |
 
-この検証で確認したのは、画面側へまっすぐ抜ける動きに対するリップの接触です。PLAのたわみや斜めに外す動きはモデル化していないため、実機での保持力と着脱のしやすさは未確認です。
+この検証では、画面側へまっすぐ引いた場合のリップの接触を確認しました。PLAのたわみや斜めに外す動きはモデル化していません。造形後の実機テストでは、装着してもケースが外れました。
 
 ## NULL FONT
 
