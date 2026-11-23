@@ -11,17 +11,17 @@ iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの Soli
 
 ケースのモデリングには **SolidCraft** を使用し、掲載画像は **Blender** でレンダリングしました。
 
-![左からシアンのケースの内側、白いインレイ入りの背面、白いiPhone 16 Pro Max](iPhone16ProMax/case-render-retention.png)
+![左からシアンの低リム版ケースの内側、白いロゴと縁取り入りの背面、白いiPhone 16 Pro Max](iPhone16ProMax/low-rim/low-rim-render.png)
 
 ![背面ロゴと NULL=RUN の白いインレイの拡大](iPhone16ProMax/case-inlay-detail.png)
 
-### 低リム試作版
+### 低リム版 v0.30
 
 - [SolidCraft CAD](iPhone16ProMax/null-iPhone16ProMax.sc)
 - [ケース本体のSTL（単色）](iPhone16ProMax/null-iPhone16ProMax-case.stl)
 - [H3C用3MF（シアン＋白、サポート付き）](iPhone16ProMax/low-rim/null-iPhone16ProMax-lowRim-H3C-cyan-white.3mf)
 
-ケース上端と全周リップを0.70 mm下げた試作版です。実機での着脱と保持力は未確認です。
+ケース上端と全周リップを0.70 mm下げた版です。Bambu Lab H3Cでシアンと白の2色造形に成功しました。[v0.30のダウンロード](https://github.com/GOROman/null-iPhone-case/releases/tag/v0.30)
 
 ## MuJoCoでの抜け止め検証
 
