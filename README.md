@@ -17,7 +17,8 @@ iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの Soli
 
 ### 低リム試作版
 
-- [SolidCraft CAD](iPhone16ProMax/low-rim/null-iPhone16ProMax-lowRim.sc)
+- [SolidCraft CAD](iPhone16ProMax/null-iPhone16ProMax.sc)
+- [ケース本体のSTL（単色）](iPhone16ProMax/null-iPhone16ProMax-case.stl)
 - [H3C用3MF（シアン＋白、サポート付き）](iPhone16ProMax/low-rim/null-iPhone16ProMax-lowRim-H3C-cyan-white.3mf)
 
 ケース上端と全周リップを0.70 mm下げた試作版です。実機での着脱と保持力は未確認です。
