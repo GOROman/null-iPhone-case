@@ -1,5 +1,8 @@
 # null-iPhone-case
 
+> [!WARNING]
+> **v0.01beta には欠陥があります。** iPhone 16 Pro Max に装着しても保持力が足りず、通常の取り扱いでケースが外れます。この版のケースデータの印刷・使用は推奨しません。[プレリリースの詳細](https://github.com/GOROman/null-iPhone-case/releases/tag/v0.01beta)
+
 iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの SolidCraft CAD データと、NULL CITY のロゴをもとにしたディスプレイ書体 **NULL FONT** を収録しています。
 
 ## iPhone 16 Pro Max ケース
