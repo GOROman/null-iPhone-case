@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ja"><meta charset="utf-8"><title>NULL FONT — Original display lettering</title>
+<link rel="stylesheet" href="null-font.css">
+<style>
+*{box-sizing:border-box}html,body{margin:0;width:1440px;background:#10101a;color:#f5f6ff;font-family:Arial,sans-serif}body{padding:48px 56px 40px}header{display:flex;justify-content:space-between;align-items:center;color:#b5b7ce;font-size:13px;letter-spacing:3px;border-top:3px solid #fa29ad;padding-top:18px}.hero{font-family:'NULL FONT',sans-serif;font-style:italic;font-size:205px;line-height:1.15;margin:23px 0 0;color:#fff;white-space:nowrap}.tag{margin:4px 0 32px;color:#a9adc9;font-size:13px;letter-spacing:3px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:28px}section{border-top:1px solid #4a3a60;padding-top:18px}h2{margin:0 0 12px;color:#fc55b9;font-size:12px;letter-spacing:3px;font-weight:normal}.sample{font-family:'NULL FONT',sans-serif;font-weight:400;font-size:42px;line-height:1.65;white-space:nowrap}.italic{font-style:italic}.small{font-size:32px}.symbols{font-size:35px;line-height:1.7}.numbers{letter-spacing:1px;color:#d4e7ff}.banner{border-top:1px solid #4a3a60;border-bottom:1px solid #4a3a60;margin-top:28px;padding:18px 0 22px}.banner .sample{font-size:64px}.footer{display:flex;justify-content:space-between;margin-top:24px;font-size:12px;color:#959bb8;letter-spacing:1px}.status{font-size:12px;color:#cbcadf;margin-top:16px;min-height:16px}@page{size:1440px 1240px;margin:0}@media print{html,body{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+</style>
+<header><span>GOROman / ORIGINAL LETTERING</span><span>NC-03 TYPE SYSTEM · V0.1</span></header>
+<div class="hero">NULL FONT</div>
+<div class="tag">ANGULAR OUTLINES / 12° FORWARD LEAN / FONT-INDEPENDENT BRAND DNA</div>
+<div class="grid">
+<section><h2>REGULAR</h2><div class="sample">ABCDEFGHIJKLM<br>NOPQRSTUVWXYZ</div><div class="sample small">abcdefghijklmnopqrstuvwxyz</div><div class="sample numbers">0123456789</div></section>
+<section><h2>ITALIC / 12°</h2><div class="sample italic">ABCDEFGHIJKLM<br>NOPQRSTUVWXYZ</div><div class="sample small italic">abcdefghijklmnopqrstuvwxyz</div><div class="sample italic numbers">0123456789</div></section>
+</div>
+<div class="banner"><h2>BUILT FOR NULL CITY</h2><div class="sample italic">NULL CITY /// NC-03</div><div class="sample symbols">! ? @ # $ % &amp; * + − = / \ ( ) [ ] { } &lt; &gt; Φ φ ⌀</div><div class="sample symbols">¥ 1,234.50 × 24 ÷ 8 — 30° : ; “TYPE” … • Ø ø</div></div>
+<div class="footer"><span>REGULAR + ITALIC · TTF / OTF / WOFF2</span><span>LATIN DISPLAY FACE · SMALL-CAP LOWERCASE</span></div>
+<div class="status" id="status">Loading fonts…</div>
+<script>
+Promise.all([document.fonts.load('42px "NULL FONT"'),document.fonts.load('italic 42px "NULL FONT"')]).then(()=>{document.documentElement.dataset.fontsReady='true';document.querySelector('#status').textContent='NULL FONT / Ready';});
+</script>
+</html>
