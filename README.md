@@ -6,7 +6,9 @@ iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの Soli
 
 ケースのモデリングには **SolidCraft** を使用し、掲載画像は **Blender** でレンダリングしました。
 
-![シアンのケースを内側と背面から見たレンダリング。背面のロゴに斜めから光を当てています。](iPhone16ProMax/case-render.png)
+![シアンのケースを内側と背面から見たレンダリング。背面のロゴに斜めから光を当てています。](iPhone16ProMax/case-render-cyan.png)
+
+![背面ロゴと NULL=RUN の刻印の拡大](iPhone16ProMax/case-logo-detail.png)
 
 ## NULL FONT
 
