@@ -7,6 +7,14 @@
 
 iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの SolidCraft CAD データと、NULL CITY のロゴをもとにしたディスプレイ書体 **NULL FONT** を収録しています。
 
+## PaperDIY 内蔵ケース v0.40
+
+電子ペーパーを背面に組み込んだケースです。v0.40 はテストプリント中です。背面を下にして、0.4 mm ノズル・積層 0.20 mm・サポートなしでスライスしました。
+
+![PaperDIY 内蔵ケース v0.40 の Blender レンダリング](iPhone16ProMax/paperdiy/paperdiy-render.png)
+
+[SolidCraft CAD](iPhone16ProMax/null-iPhone16ProMax-PaperDIY.sc) · [Bambu Lab H3C 用の印刷データ（3MF）](iPhone16ProMax/paperdiy/PaperDIY-H3C-bed-aligned.3mf)
+
 ## iPhone 16 Pro Max ケース
 
 ケースのモデリングには **SolidCraft** を使用し、掲載画像は **Blender** でレンダリングしました。
