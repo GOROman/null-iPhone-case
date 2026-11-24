@@ -15,6 +15,8 @@ iPhone 16 Pro Max 向けケースのプロジェクトです。ケースの Soli
 
 [SolidCraft CAD](iPhone16ProMax/null-iPhone16ProMax-PaperDIY.sc) · [Bambu Lab H3C 用の印刷データ（3MF）](iPhone16ProMax/paperdiy/PaperDIY-H3C-bed-aligned.3mf)
 
+iPhone で選んだ写真や、URL から作成した QR コードを BLE で送り、背面の丸窓に表示できます。一番下の丸窓には iPhone と時刻を合わせたアナログ時計を表示し、秒針に合わせて時計部分だけを毎秒更新します。[ファームウェアと iPhone アプリの導入手順](firmware/README.md)
+
 ## iPhone 16 Pro Max ケース
 
 ケースのモデリングには **SolidCraft** を使用し、掲載画像は **Blender** でレンダリングしました。
